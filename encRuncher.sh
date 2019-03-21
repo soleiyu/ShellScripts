@@ -1,5 +1,3 @@
-echo Begin
-
 echo $#
 
 for x in "$@"
